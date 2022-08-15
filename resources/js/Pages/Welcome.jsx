@@ -65,7 +65,7 @@ export default function Welcome(props) {
                                             Documentation
                                         </a>
                                     </div>
-                                </div>
+                                </div> 
 
                                 <div className="ml-12">
                                     <div className="mt-2 text-gray-600 dark:text-gray-400 text-sm">
